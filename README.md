@@ -1,5 +1,4 @@
-# Network Anomaly Detection
-
+# NETWORK ANOMALY DETECTION
 
 ## Enhancing real-time network anomaly detection with adaptive deep learning
 
@@ -46,12 +45,21 @@ MAWI DATASET:
 2. https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-024-02441-2
 3. 
 
-
 ## Resources to check 
 
 1. Google colab : https://colab.research.google.com/
 2. Kaggle : https://www.kaggle.com/
 
+## Deep learning courses
+
+1. First course  : https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&pp=iAQB
+2. Second course : https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&pp=iAQB
+3. Third course  : https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b&pp=iAQB
+4. Fourth course : https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF&pp=iAQB 
+5. Fifth course  : https://www.youtube.com/watch?v=_i3aqgKVNQI&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6&pp=iAQB
+
 ## Google Colab tutorials 
 
 1. Training neural networks in Google Colab : https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb
+2. Training a CNN Classifier : https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/4e865243430a47a00d551ca0579a6f6c/cifar10_tutorial.ipynb
+3. Training neural networks with PyTorch : https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/c029676472d90691aa145c6fb97a61c3/neural_networks_tutorial.ipynb
