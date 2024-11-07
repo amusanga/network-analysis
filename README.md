@@ -54,4 +54,4 @@ MAWI DATASET:
 
 ## Google Colab tutorials 
 
-1. Training neural networks in Google Colab : https://colab.research.google.com/github/omarsar/pytorch_notebooks/blob/master/pytorch_quick_start.ipynb
+1. Training neural networks in Google Colab : https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb
