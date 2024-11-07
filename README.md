@@ -37,9 +37,21 @@ UNSWBN15  :
 1. Preprocessing : https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15/code
 2. Paper with code : https://paperswithcode.com/dataset/unsw-nb15
 
+MAWI DATASET:
+1. http://mawi.wide.ad.jp/mawi/
 
 ## What is adaptive deep learning?
 
 1. https://pandio.com/what-is-adaptive-ml-online-machine-learning/
 2. https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-024-02441-2
 3. 
+
+
+## Resources to check 
+
+1. Google colab : https://colab.research.google.com/
+2. Kaggle : https://www.kaggle.com/
+
+## Google Colab tutorials 
+
+1. Training neural networks in Google Colab : https://colab.research.google.com/github/omarsar/pytorch_notebooks/blob/master/pytorch_quick_start.ipynb
