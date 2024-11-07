@@ -39,6 +39,7 @@ UNSWBN15  :
 MAWI DATASET:
 1. http://mawi.wide.ad.jp/mawi/
 
+
 ## What is adaptive deep learning?
 
 1. https://pandio.com/what-is-adaptive-ml-online-machine-learning/
@@ -47,10 +48,12 @@ MAWI DATASET:
 
 ## Resources to check 
 
+### 1. Online platforms
+
 1. Google colab : https://colab.research.google.com/
 2. Kaggle : https://www.kaggle.com/
 
-## Deep learning courses
+### 2. Deep learning courses
 
 1. First course  : https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&pp=iAQB
 2. Second course : https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&pp=iAQB
@@ -58,7 +61,7 @@ MAWI DATASET:
 4. Fourth course : https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF&pp=iAQB 
 5. Fifth course  : https://www.youtube.com/watch?v=_i3aqgKVNQI&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6&pp=iAQB
 
-## Google Colab tutorials 
+### 3. Google Colab tutorials 
 
 1. Training neural networks in Google Colab : https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb
 2. Training a CNN Classifier : https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/4e865243430a47a00d551ca0579a6f6c/cifar10_tutorial.ipynb
